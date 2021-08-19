@@ -1,0 +1,11 @@
+{
+  "name": "ghost-to-listed",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "uuid": "^8.3.2"
+  }
+}

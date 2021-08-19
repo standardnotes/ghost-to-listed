@@ -1,0 +1,18 @@
+[
+  {
+    "replace": "__GHOST_URL__/content/images",
+    "with": "https://s3.amazonaws.com/your/bucket/images"
+  },
+  {
+    "replace": "__GHOST_URL__",
+    "with": ""
+  },
+  {
+    "replace": "<!--kg-card-begin: markdown-->",
+    "with": ""
+  },
+  {
+    "replace": "<!--kg-card-end: markdown-->",
+    "with": ""
+  }
+]

@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+output/sn.json
+output/images/*/**
+input/ghost.json
+input/replacers.json
+.env
